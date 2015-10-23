@@ -1,3 +1,4 @@
 # test
 Working out how to use Git(Hub)
-Am confuse
+
+It is somewhat confusing
